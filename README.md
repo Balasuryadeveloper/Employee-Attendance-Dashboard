@@ -69,7 +69,3 @@ The dashboard provides insights into:
 
 **Output - Screenshot**
 <img width="1131" height="711" alt="Screenshot 2025-11-29 142239" src="https://github.com/user-attachments/assets/6e5b7783-0ed4-44b7-a52a-b60c91c96468" />
-
-
-
-## 📂 Project Structure
